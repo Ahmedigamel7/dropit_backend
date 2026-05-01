@@ -172,18 +172,10 @@ npx prisma migrate dev  # Apply migrations
 
 📦 Deployment
 
-This project can be deployed on:
-
-    Render
-
-    Railway
-
-    Dockerized VPS (e.g., DigitalOcean)
-
-    Any platform supporting Node.js 18+ and PostgreSQL
+This project can be deployed on: Railway
 
 👨‍💻 Author
 
 Ahmed Abdelnaby
-🧑‍💻 Junior Software Engineer — NestJS | React | PostgreSQL
+🧑‍💻 Software Engineer — NestJS | NextJS | PostgreSQL
 📍 Egypt
